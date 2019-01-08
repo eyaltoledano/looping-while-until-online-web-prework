@@ -6,5 +6,5 @@ def using_until
         end
     if levitation_force => 10
       break
-    end 
+    end
 end
